@@ -38,19 +38,19 @@ const Contact = async () => {
                 </div>
                 <div className="mb-6">
                   <label htmlFor="email" className="form-label">
-                    Working Mail <span className="text-red-500">*</span>
+                    Email <span className="text-red-500">*</span>
                   </label>
                   <input
                     id="email"
                     name="email"
                     className="form-input"
-                    placeholder="john.doe@email.com"
+                    placeholder="elon.musk@mars.com"
                     type="email"
                   />
                 </div>
                 <div className="mb-6">
                   <label htmlFor="message" className="form-label">
-                    Anything else? <span className="text-red-500">*</span>
+                    Message <span className="text-red-500">*</span>
                   </label>
                   <textarea
                     id="message"

@@ -1,21 +1,21 @@
 {
   "site": {
-    "title": "Nextplate",
-    "base_url": "https://nextplate.netlify.app",
+    "title": "snow yeti - take notes like chatting",
+    "base_url": "https://linklabs.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "27",
-    "logo_text": "Nextplate"
+    "logo_width": "160",
+    "logo_height": "80",
+    "logo_text": "snowYeti"
   },
 
   "settings": {
-    "search": true,
+    "search": false,
     "sticky_header": true,
-    "theme_switcher": true,
+    "theme_switcher": false,
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "COPYRIGHT © 2023. ALL RIGHTS RESERVED - snow yeti "
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "label": "pre-release demo",
+    "link": "https://note.linklabs.app"
   },
 
   "disqus": {
