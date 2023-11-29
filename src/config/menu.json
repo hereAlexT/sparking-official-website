@@ -6,7 +6,10 @@
     }
   ],
   "footer": [
-
+    {
+      "name": "Change Log",
+      "url": "/changelog"
+    },
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
