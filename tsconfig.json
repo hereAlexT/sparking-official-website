@@ -29,6 +29,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/about/page.tsx.bk", "src/app/authors/[single]/page.tsx.bk", "src/app/authors/page.tsx.bk", "src/app/blog/[single]/page.tsx.bk", "src/app/blog/page/[page]/page.tsx.bk", "src/app/blog/page.tsx.bk", "src/app/categories/[single]/page.tsx.bk", "src/app/categories/page.tsx.bk", "src/app/contact/page.tsx.bk", "src/app/search/page.tsx.bk", "src/app/tags/[single]/page.tsx.bk", "src/app/tags/page.tsx.bk"],
   "exclude": ["node_modules"]
 }
