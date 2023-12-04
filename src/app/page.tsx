@@ -90,7 +90,7 @@ const Home = () => {
                   dangerouslySetInnerHTML={markdownify(feature.content)}
                 />
                 <ul>
-                  {feature.bulletpoints.map((bullet: string) => (
+                  {feature.bulletpoints?.map((bullet: string) => (
                     <li className="relative mb-4 pl-6" key={bullet}>
                       <FaCheck className={"absolute left-0 top-1.5"} />
                       <span dangerouslySetInnerHTML={markdownify(bullet)} />

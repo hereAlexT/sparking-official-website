@@ -1,7 +1,7 @@
 ---
 title: "What's new?"
 meta_title: ""
-description: "What's new on latest snow yeti!"
+description: "What's new on latest Sparking!"
 draft: false
 ---
 

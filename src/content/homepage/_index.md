@@ -1,45 +1,37 @@
 ---
 # Banner
 banner:
-  title: "Connect your thoughts 💡 <br> Unlleash your ideas. "
-  content: "Unleash the power of effortless note-taking anytime, anywhere. Capture your thoughts seamlessly with Linknote."
+  title: "Take notes like chatting, make your notes never sleep again"
+  content: "Seamlessly capture your thoughts at any moment, just like chatting with a friend. Revisit it with the power of AI."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Try pre-release demo"
-    link: "https://note.linklabs.app"
+    link: "https://app.sparkingapp.com"
 
 # Features
 features:
-  - title: "What's linknote?"
+  - title: "Effortless Note-Taking, Anytime, Anywhere"
     image: "/images/service-1.png"
-    content: "Linknote redefines the way you take notes. It's not just about jotting down information. it's about weaving a web of knowledge that reflects the way your mind works.."
-    bulletpoints:
-      - "Effortless note-taking, akin to chatting with a friend."
-      - "Create a neural network of notes with bidirectional links."
-      - "AI-powered search that brings your notes back to life."
-      - "Full platform support, so your ideas are always within reach."
+    content: "Inspiration doesn't wait, and neither should you. With Sparking, your thoughts are captured on-the-fly, just like a chat with your inner self."
 
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  # - title: "Discover the Key Features Of Next"
-  #   image: "/images/service-2.png"
-  #   content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-  #   bulletpoints:
-  #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-  #     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-  #     - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-  #   button:
-  #     enable: false
-  #     label: "Get Started Now"
-  #     link: "https://github.com/zeon-studio/nextplate"
+  - title: "Your notes never sleep again"
+    image: "/images/service-2.png"
+    content: "Even if you only vaguely recall a snippet of your notes, Sparking's AI is your personal search wizard. It delves into the essence of your entries, ensuring that no idea ever truly sleeps."
 
-  # - title: "The Top Reasons to Choose Next for Your Next Project"
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "https://github.com/zeon-studio/nextplate"
+
+  # - title: "Let AI help you build your personal wiki with minimal effort"
   #   image: "/images/service-3.png"
-  #   content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  #   content: "Without thinking about tag/foloder system to organize your notes. That's not how your brain works. Your brain works like a network. Let AI help you build your own second brain."
   #   bulletpoints:
   #     - "Instantly load static sites for better user experience and SEO."
   #     - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."

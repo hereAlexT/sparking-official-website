@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "snow yeti - take notes like chatting",
+    "title": "Sparking",
     "base_url": "https://linklabs.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "COPYRIGHT © 2023. ALL RIGHTS RESERVED - snow yeti "
+    "copyright": "COPYRIGHT © 2023. ALL RIGHTS RESERVED - SPARKING"
   },
 
   "navigation_button": {
     "enable": true,
     "label": "pre-release demo",
-    "link": "https://note.linklabs.app"
+    "link": "https://app.sparkingapp.com/"
   },
 
   "disqus": {
@@ -40,8 +40,8 @@
   },
 
   "metadata": {
-    "meta_author": "snow yeti",
+    "meta_author": "Sparking",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_description": "Sparking APP"
   }
 }
