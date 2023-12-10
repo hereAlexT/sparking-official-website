@@ -1,15 +1,15 @@
 {
   "site": {
     "title": "Sparking",
-    "base_url": "https://linklabs.app",
+    "base_url": "https://sparkingapp.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "110",
-    "logo_height": "55",
-    "logo_text": "snowYeti"
+    "logo_height": "110",
+    "logo_text": "Sparking"
   },
 
   "settings": {
@@ -29,7 +29,7 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "pre-release demo",
+    "label": "Get Started",
     "link": "https://app.sparkingapp.com/"
   },
 

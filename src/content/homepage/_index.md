@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Try pre-release demo"
+    label: "Get Started Now"
     link: "https://app.sparkingapp.com"
 
 # Features
