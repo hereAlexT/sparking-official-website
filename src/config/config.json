@@ -29,7 +29,7 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Get Started (Beta)",
     "link": "https://app.sparkingapp.com/"
   },
 

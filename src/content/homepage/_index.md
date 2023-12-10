@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started Now"
+    label: "Get Started (Beta)"
     link: "https://app.sparkingapp.com"
 
 # Features
@@ -17,7 +17,7 @@ features:
 
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Get Started"
       link: "#"
 
   - title: "Your notes never sleep again"
@@ -26,7 +26,7 @@ features:
 
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Get Started (Beta)"
       link: "https://github.com/zeon-studio/nextplate"
 
   # - title: "Let AI help you build your personal wiki with minimal effort"
