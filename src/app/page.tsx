@@ -40,6 +40,13 @@ const Home = () => {
                   {banner.button!.label}
                 </a>
               )}
+
+              <a
+                className="btn btn-outline-primary ml-2 mt-2"
+                href="https://github.com/hereAlexT/Sparking"
+              >
+                Github
+              </a>
             </div>
             {banner.image && (
               <div className="col-12">
