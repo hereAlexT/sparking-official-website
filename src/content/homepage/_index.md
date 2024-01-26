@@ -21,8 +21,8 @@ features:
       link: "#"
 
   - title: "Your notes never sleep again"
-    image: "/images/service-2.png"
-    content: "Even if you only vaguely recall a snippet of your notes, Sparking's AI is your personal search wizard. It delves into the essence of your entries, ensuring that no idea ever truly sleeps."
+    image: "/images/service-2.webp"
+    content: "Even if you only vaguely recall a snippet of your notes, Sparking's AI (developing) is your personal search wizard. It delves into the essence of your entries, ensuring that no idea ever truly sleeps."
 
     button:
       enable: false
